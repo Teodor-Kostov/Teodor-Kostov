@@ -3,7 +3,7 @@
 I'm a passionate developer with a deep interest in JavaScript and everything around it. I enjoy building web applications and solving real-world problems using modern technologies.
 
 ## 👀 Interests
-- JavaScript (Node.js, Express.js, React, Angular, and many more!)
+- JavaScript (Node.js, Express.js, React, Angular, Type Script and many more!)
 - Backend and frontend development
 - Open-source contributions
 - Building scalable web apps
